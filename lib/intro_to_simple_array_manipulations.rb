@@ -1,2 +1,2 @@
 def using_concat(array1, array2)
-  all_my_favs = 
+  all_my_favs = .concat(array1, array2)
